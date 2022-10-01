@@ -8,11 +8,8 @@ Prepare workflow directory
 Prepare all required actions
 Getting action download info
 Download action repository 'actions/deploy-pages@v1' (SHA:75c1124b142c363849aac2d23c005a4faf87c90f)
-1s
+0s
 Run actions/deploy-pages@v1
 Sending telemetry for run id 3165646375: success
-0s
+1s
 Cleaning up orphan processes
-
-
-
